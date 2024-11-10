@@ -1,6 +1,6 @@
-# EX-01: Developing a Simple Webserver
+# Ex-01: Developing a Simple Webserver
 
-## Date: 19-08-2024
+## DATE: 19-08-2024
 
 ## AIM:
 
