@@ -1,4 +1,4 @@
-# Ex-01: Developing a Simple Webserver
+# Ex-1: Developing a Simple Webserver
 
 ## DATE: 19-08-2024
 
